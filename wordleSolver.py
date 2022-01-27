@@ -16,7 +16,7 @@ import json
 #assings webdriver.firefox to driver. This Allows you to pick which browser you would like to use with selenium 
 driver = webdriver.Firefox() 
 
-#Urlf of wordle 
+#Url of wordle 
 url='https://www.powerlanguage.co.uk/wordle/'
 
 #Tells the driver to get the content of wordle
