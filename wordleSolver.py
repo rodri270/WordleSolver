@@ -15,3 +15,4 @@ result = driver.execute_script(script)
 solution = json.loads(result["gameState"])
 
 print(solution["solution"])
+
