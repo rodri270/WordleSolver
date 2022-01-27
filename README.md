@@ -1,2 +1,2 @@
 # WordleSolver
- python app that scraps wordle for the solution each day
+ python app that scrapes wordle for the solution each day
